@@ -16,9 +16,9 @@ class SMSModel {
 
     
     // Enter API KEY
-    private let apiKey = "930c1ebb"
+    private let apiKey = ""
     // Enter Secret Key
-    private let secretKey = "59bf0bad6077e9f1"
+    private let secretKey = ""
     
     func sendSMSMessage(_ from: String, to: String, messageSent: String, completion: @escaping (([MessageData]?, Error?) -> Void)) {
    
