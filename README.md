@@ -1,4 +1,4 @@
-# nexmo-message-app
+# Nexmo Message App
 This project allows the user to send text messages to mobile devices.
 
 # Nexmo API 
